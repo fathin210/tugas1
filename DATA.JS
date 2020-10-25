@@ -1,0 +1,31 @@
+var data = {
+    "toko": [
+        {
+        "nama" : "OLSHOPBABY",
+        "owner" : "Joko",
+        "produk" : [
+            {
+                "diapers": [
+                    {
+                        "stok" : "100",
+                        "harga" : "15000"
+                    }
+                ],
+                "susu" : [
+                    {
+                        "stok" : "150",
+                        "harga" : "45000"
+                    }
+                ],
+                "baju bayi" : [
+                    {
+                        "stok" : "50",
+                        "harga" : "30000"
+                    }
+                ]
+            }
+        ]
+        }
+    ]
+}
+
