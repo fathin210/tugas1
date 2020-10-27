@@ -1,28 +1,26 @@
 {
-    "toko": [
-        {
-        "nama" : "OLSHOPBABY",
-        "owner" : "Joko",
-        "produk" : 
-            {
-                "diapers": 
-                    {
-                        "stok" : "100",
-                        "harga" : "15000"
-                    }
-                ,
-                "susu" : 
-                    {
-                        "stok" : "150",
-                        "harga" : "45000"
-                    }
-                ,
-                "baju bayi" : 
-                    {
-                        "stok" : "50",
-                        "harga" : "30000"
-                    }    
-            }
-        }
-    ]
+        "toko":[
+           {
+              "nama_toko":"OLSHOPBABY",
+              "owner":"Joko",
+              "produk":[
+                  {
+                    "nama_produk" : "diapers",
+                    "stok":"100",
+                    "harga":"15000"
+                },
+                {
+                    "nama_produk" : "susu",
+                    "stok" : "100",
+                    "harga" : "15000"
+                },
+                {
+                    "nama_produk" : "baju bayi",
+                    "stok" : "50",
+                    "harga" : "30000"
+                }
+
+              ]              
+           }
+        ]
 }
