@@ -5,23 +5,22 @@
         "owner" : "Joko",
         "produk" : 
             {
-                    {
+                    
                         "nama" : "diapers",
                         "stok" : "100",
                         "harga" : "15000"
-                    }
                 ,
-                    {
+                    
                         "nama" : "susu",
                         "stok" : "150",
                         "harga" : "45000"
-                    }
+                    
                 ,
-                    {
+                    
                         "nama" : "baju bayi",
                         "stok" : "50",
                         "harga" : "30000"
-                    }    
+                       
             }
         }
     ]
